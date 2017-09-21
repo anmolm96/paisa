@@ -1,0 +1,23 @@
+{
+  "name": "paisa",
+  "version": "1.0.0",
+  "description": "Currency conversion library (with symbols) using the Open Exchange Rates API",
+  "main": "paisa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "currency",
+    "money",
+    "currency",
+    "conversion",
+    "exchange",
+    "rates",
+    "symbol"
+  ],
+  "author": "Anmol Maini <anmol.maini@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.2"
+  }
+}
